@@ -140,6 +140,41 @@
 - https://docs.microsoft.com/learn/modules/control-network-traffic-flow-with-routes/
 - https://docs.microsoft.com/learn/modules/introduction-azure-private-link/
 
+# Administering Network Traffic
+## Azure Load Balancer
+- https://docs.microsoft.com/learn/paths/az-104-manage-virtual-networks/
+- https://docs.microsoft.com/learn/modules/configure-azure-load-balancer/
+- https://docs.microsoft.com/learn/modules/configure-azure-application-gateway/
+- https://docs.microsoft.com/learn/modules/configure-network-watcher/
+- https://docs.microsoft.com/azure/architecture/guide/technology-choices/load-balancing-overview
+- https://docs.microsoft.com/azure/load-balancer/skus
+- https://docs.microsoft.com/azure/load-balancer/tutorial-load-balancer-standard-manage-portal
+- https://docs.microsoft.com/learn/modules/improve-app-scalability-resiliency-with-load-balancer/
+- https://docs.microsoft.com/learn/modules/load-balancing-non-https-traffic-azure/
+- https://learn.microsoft.com/training/modules/intro-to-azure-load-balancer/
+## Azure Application Gateway
+- https://docs.microsoft.com/azure/application-gateway/configuration-overview
+- https://docs.microsoft.com/azure/application-gateway/quick-create-portal
+- https://learn.microsoft.com/azure/application-gateway/quick-create-portal
+- https://docs.microsoft.com/learn/modules/intro-to-azure-application-gateway/
+- https://docs.microsoft.com/learn/modules/load-balance-web-traffic-with-application-gateway/
+- https://docs.microsoft.com/learn/modules/load-balancing-https-traffic-azure/
+- https://docs.microsoft.com/learn/modules/end-to-end-encryption-with-app-gateway/
+## Configure Network Watcher
+- https://docs.microsoft.com/azure/network-watcher/network-watcher-ip-flow-verify-overview
+- https://docs.microsoft.com/azure/network-watcher/network-watcher-next-hop-overview
+- https://docs.microsoft.com/azure/network-watcher/view-network-topology
+- https://docs.microsoft.com/learn/modules/intro-to-azure-network-watcher/
+- https://docs.microsoft.com/learn/modules/troubleshoot-azure-network-infrastructure/
+- https://docs.microsoft.com/learn/modules/analyze-infrastructure-with-azure-monitor-logs/
+- https://docs.microsoft.com/learn/modules/monitor-performance-using-azure-monitor-for-vms/
+- https://docs.microsoft.com/learn/modules/write-first-query-kusto-query-language/
+
+
+
+
+
+
 
 
 
