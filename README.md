@@ -1,4 +1,4 @@
-# AZ-104 Additional Learning Links
+# AZ-104 Learning Links
 
 # Identity
 
