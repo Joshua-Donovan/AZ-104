@@ -1,6 +1,4 @@
-# AZ-104
-
-# Extended Learning Links
+# AZ-104 Additional Learning Links
 
 # Identity
 
@@ -64,7 +62,84 @@
 - https://docs.microsoft.com/learn/modules/manage-subscription-access-azure-rbac/
 - https://docs.microsoft.com/learn/modules/secure-azure-resources-with-rbac/
 
-  
+# Administer Azure Resources
+- https://docs.microsoft.com/learn/paths/az-104-administrator-prerequisites/learning path
+- https://docs.microsoft.com/learn/modules/configure-azure-resources-tools/
+- https://docs.microsoft.com/learn/modules/configure-resources-arm-templates/
+## Tools
+- https://docs.microsoft.com/azure/azure-portal/azure-portal-overview
+- https://docs.microsoft.com/azure/cloud-shell/overview
+- https://docs.microsoft.com/powershell/azure/get-started-azureps?view=azps-4.3.0
+- https://docs.microsoft.com/cli/azure/get-started-with-azure-cli?view=azure-cli-latest
+- https://docs.microsoft.com/learn/modules/tour-azure-portal/
+- https://docs.microsoft.com/learn/modules/introduction-to-powershell/
+- https://docs.microsoft.com/learn/modules/control-azure-services-with-cli/
+- https://docs.microsoft.com/learn/modules/control-and-organize-with-azure-resource-manager/
+
+## ARM Templates
+- https://docs.microsoft.com/azure/azure-resource-manager/templates/overview
+- https://docs.microsoft.com/azure/azure-resource-manager/templates/template-syntax
+- https://docs.microsoft.com/azure/azure-resource-manager/templates/template-parameters
+
+## Bicep
+- https://docs.microsoft.com/azure/azure-resource-manager/bicep/overview?tabs=bicep
+- https://aka.ms/bicepdemo
+- https://docs.microsoft.com/learn/modules/create-azure-resources-using-azure-resource-manager-templates/
+- https://docs.microsoft.com/learn/modules/create-azure-resource-manager-template-vs-code/
+- https://learn.microsoft.com/en-us/training/modules/introduction-to-infrastructure-as-code-using-bicep/
+- https://docs.microsoft.com/learn/modules/build-first-bicep-template/
+
+# Administer Virtual Networking
+- https://learn.microsoft.com/training/modules/configure-virtual-networks/
+- https://learn.microsoft.com/training/modules/configure-network-security-groups/
+- https://learn.microsoft.com/training/modules/configure-azure-dns/
+## Planning Virtual Networks
+- https://azure.microsoft.com/services/virtual-network/
+- https://docs.microsoft.com/azure/virtual-network/virtual-networks-overview
+- https://docs.microsoft.com/azure/virtual-network/quick-create-portal
+- https://docs.microsoft.com/learn/modules/design-ip-addressing-for-azure
+- https://docs.microsoft.com/azure/virtual-network/virtual-network-public-ip-address
+- https://docs.microsoft.com/azure/virtual-network/public-ip-addresses
+- https://docs.microsoft.com/azure/virtual-network/private-ip-addresses
+- https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-virtual-networks/
+- https://docs.microsoft.com/learn/modules/design-ip-addressing-for-azure/
+- https://docs.microsoft.com/learn/modules/implement-windows-server-iaas-virtual-machine-ip-addressing-routing/
+
+## Administer Network Security Groups (NSG)
+- https://docs.microsoft.com/azure/virtual-network/security-overview#network-security-groups
+- https://docs.microsoft.com/azure/virtual-network/manage-network-security-group
+- https://docs.microsoft.com/azure/virtual-network/tutorial-filter-network-traffic
+- https://docs.microsoft.com/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/
+- https://docs.microsoft.com/azure/virtual-network/application-security-groups
+- https://docs.microsoft.com/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/
+
+## DNS
+- https://docs.microsoft.com/azure/dns/dns-overview
+- https://docs.microsoft.com/azure/dns/dns-zones-records#dns-zones
+- https://docs.microsoft.com/learn/modules/host-domain-azure-dns/
+- https://docs.microsoft.com/azure/dns/private-dns-getstarted-portal
+- https://docs.microsoft.com/learn/modules/host-domain-azure-dns/
+- https://docs.microsoft.com/learn/modules/implement-dns-for-windows-server-iaas-virtual-machines/
+
+# Administer Intersite Connectivity
+- https://docs.microsoft.com/learn/modules/configure-vnet-peering/
+- https://learn.microsoft.com/training/modules/configure-network-routing-endpoints/
+
+ ## Configure VNet Peering
+ - https://docs.microsoft.com/azure/virtual-network/virtual-network-peering-overview
+ - https://docs.microsoft.com/azure/virtual-network/virtual-networks-faq
+ - https://docs.microsoft.com/azure/virtual-network/virtual-network-manage-peering#requirements-and-constraints
+ - https://docs.microsoft.com/azure/virtual-network/tutorial-connect-virtual-networks-portal
+ - https://docs.microsoft.com/learn/modules/integrate-vnets-with-vnet-peering
+
+## Configure Network Routing and Endpoints
+- https://docs.microsoft.com/azure/virtual-network/virtual-networks-udr-overview
+- https://docs.microsoft.com/azure/virtual-network/virtual-network-service-endpoints-overview
+- https://docs.microsoft.com/azure/virtual-network/tutorial-restrict-network-access-to-resources
+- https://docs.microsoft.com/azure/private-link/
+- https://docs.microsoft.com/learn/modules/control-network-traffic-flow-with-routes/
+- https://docs.microsoft.com/learn/modules/introduction-azure-private-link/
+
 
 
 
